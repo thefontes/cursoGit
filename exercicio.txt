@@ -1,0 +1,5 @@
+remover uma linha de um arquivo.
+adicionar uma nova linha em um arquivo.
+criar um novo arquivo com pelo menos uma lina.
+fazer o commit e o push.
+ver as diferenças pelo github.
